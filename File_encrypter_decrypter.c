@@ -4,6 +4,16 @@
 int main ()
 {
 	int ans, key;
+	int a;
+	int b;
+	int c;
+	int d;
+	int e;
+	int f;
+	int g;
+	int h;
+	int i;
+	int j;
 	char in[260];
 	printf("Press 1 to Encrypt file.\nPress 2 to Decrypt file.\n");
 	scanf("%d", &ans);
